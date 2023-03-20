@@ -55,6 +55,10 @@ h2 {
     font-variant: small-caps;
 }
 
+.icon-bar {
+    border: 2px solid white;
+}
+
 @media (max-width:767px) {
     .nav-pills>li {
         float: none;
